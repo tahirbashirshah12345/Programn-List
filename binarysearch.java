@@ -7,11 +7,7 @@ public class binarysearch {
         long end=System.nanoTime();
         System.out.println("Element is present at index " + result);
         System.out.println("Execution Time: " + (end-start) + "ns");
-        
-
-
-
-    
+            
 }
 static int binarysearch(int arr[],int target){
 
